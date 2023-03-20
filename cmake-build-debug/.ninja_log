@@ -1,0 +1,20 @@
+# ninja log v5
+1504	4050	6973242933770882	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/pass_primitive.c.obj	540bcb06e8b63149
+2344	7022	6973242934360903	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/primitives_rtwutil.c.obj	f61e9faa4bea3955
+5	4800	6973242933780911	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/rt_nonfinite.c.obj	73ae8cc91a11917c
+4054	5546	6973242944910904	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/stop_primitive.c.obj	fe74cd4687b42dd9
+755	6122	6973242933780911	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/pass_primitive_j0.c.obj	6be4f5058f8f3096
+6123	13553	6973243028907027	CMakeFiles/basic_agent.dir/log/logvars.cc.obj	73383c2b35cf541
+4801	10940	6973242951620932	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/stop_primitive_j0.c.obj	c2658f8781cbbbfa
+5547	10943	6973242960000913	CMakeFiles/basic_agent.dir/log/screen_print.c.obj	bb901e5e86a1406d
+16	4029	6973243995667422	CMakeFiles/basic_agent.dir/starting_point.cc.obj	aaad544975c70741
+10	1769	6973254501328743	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/rt_nonfinite.c.obj	73ae8cc91a11917c
+376	2187	6973254501298788	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/pass_primitive.c.obj	540bcb06e8b63149
+827	2568	6973254501298788	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/primitives_rtwutil.c.obj	f61e9faa4bea3955
+1319	3087	6973254505648805	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/stop_primitive_j0.c.obj	c2658f8781cbbbfa
+1770	3495	6973254509658717	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/pass_primitive_j0.c.obj	6be4f5058f8f3096
+2188	3932	6973254513458717	CMakeFiles/basic_agent.dir/matlab/codegen/lib/primitives/stop_primitive.c.obj	fe74cd4687b42dd9
+2570	3934	6973254519328976	CMakeFiles/basic_agent.dir/log/screen_print.c.obj	bb901e5e86a1406d
+3087	5515	6973254540858977	CMakeFiles/basic_agent.dir/log/logvars.cc.obj	73383c2b35cf541
+3496	5558	6973254541289347	CMakeFiles/basic_agent.dir/starting_point.cc.obj	aaad544975c70741
+11	2314	6973267075136406	D:/TRENTO/Intelligent Vehicles and Autonomous Driving/basic_agent_st/bin/basic_agent.exe	68710444080b7c66
